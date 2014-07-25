@@ -3,6 +3,10 @@ TodoApp
 
 A simple Todo App made using **Angular**, **Node**, **Express** and **MongoDB**. Made as an experiment in full stack application development. Also to really learn this **GitHub** business.
 
+*Instructions*
+
+Start MongoDB on default port and run the `server.js` file on node. Open the page on `localhost:8080` and **Voila!**
+
 ----------
 
 Made (more like copy-pasted) from this tutorial:
